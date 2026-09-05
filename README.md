@@ -63,6 +63,7 @@ Performance  Memory Used    61%              Healthy
 Disk         C:             48% free         Healthy
 Service      WinRM          Running          Healthy
 ```
+A sanitized example is available in [SampleServerHealthReport.csv](sample-output/SampleServerHealthReport.csv).
 
 ## Default thresholds
 
