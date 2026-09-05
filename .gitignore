@@ -1,0 +1,7 @@
+# Generated health reports
+/ServerHealthReport.csv
+/reports/
+
+# PowerShell temporary files
+*.tmp
+*.log
